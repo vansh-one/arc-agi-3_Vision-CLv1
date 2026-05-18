@@ -1,0 +1,44 @@
+# Secrets
+.env
+.env.local
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Runtime artifacts (gitignored — re-generated locally)
+runs/
+recordings/
+environment_files/
+weights/*.json
+weights/*.blob
+*.replay.jsonl
+
+# Keep empty directory markers
+!runs/.gitkeep
+!recordings/.gitkeep
+!environment_files/.gitkeep
+!weights/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
