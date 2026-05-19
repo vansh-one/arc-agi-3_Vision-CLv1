@@ -10,7 +10,7 @@
 > `OperationMode.COMPETITION` and produce one official scorecard.
 
 [![ARC-AGI-3](https://img.shields.io/badge/benchmark-ARC--AGI--3-blue)](https://arcprize.org/arc-agi/3)
-[![Vispark Vision](https://img.shields.io/badge/model-Vispark%20Vision%20Large-orange)](https://api.lab.vispark.in/)
+[![Vispark Vision](https://img.shields.io/badge/model-Vispark%20Vision%20Large-orange)](https://lab.vispark.in/#vision)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -49,11 +49,17 @@ Phase 2 (online competition)
   open ONE scorecard in COMPETITION mode
   play every game once, only level-resets allowed
   close scorecard → scorecard_url
-                       │
-                       ▼
-  paste scorecard_url into submission.yaml
-  open PR against ARC-AGI-Community-Leaderboard
 ```
+
+## Phase 1 exploration run live stream:
+
+Part 1: https://youtu.be/v3jrT25iY-M
+Part 2: https://youtu.be/W62Nz6TGbDE
+
+## Phase 2 final run scorecard:
+
+Scorecard: https://arcprize.org/scorecards/73aaed94-060a-44c6-b851-9997366eb89d
+(63.15%)
 
 ## Repository layout
 
@@ -179,7 +185,7 @@ time. The official figure is whatever `close_scorecard` returns.
 - ARC-AGI-3 benchmark and toolkit: https://docs.arcprize.org/
 - ARC Prize policy: https://arcprize.org/policy
 - Community Leaderboard: https://github.com/arcprize/ARC-AGI-Community-Leaderboard
-- Vispark Vision API: https://api.lab.vispark.in/
+- Vispark Vision API: https://lab.vispark.in/#vision
 
 ## License
 
