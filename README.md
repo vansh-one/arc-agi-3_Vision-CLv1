@@ -56,7 +56,7 @@ Phase 2 (online competition)
 - Part 1: https://youtu.be/v3jrT25iY-M
 - Part 2: https://youtu.be/W62Nz6TGbDE
 
-## Phase 2: Final run scorecard:
+## Phase 2: Final run scorecard
 
 Scorecard: https://arcprize.org/scorecards/73aaed94-060a-44c6-b851-9997366eb89d
 (63.15%)
